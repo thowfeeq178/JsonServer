@@ -1,17 +1,10 @@
 {
   "Users": [
-    {"id": 1,"name": "Syed Thowfeeq Ahmed","username": "thowfeeq","email": "thowfeeq@gmail.com"}
-  ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {"id": 1,"name": "Syed Thowfeeq Ahmed","username": "thowfeeq","email": "thowfeeq@gmail.com"},
+    {"id": 2,"name": "Ashwaq","username": "thowfeeq","email": "thowfeeq@gmail.com"},
+    {"id": 3,"name": "Syed","username": "thowfeeq","email": "thowfeeq@gmail.com"},
+    {"id": 4,"name": "Reshma","username": "thowfeeq","email": "thowfeeq@gmail.com"},
+    {"id": 5,"name": "Chitty","username": "thowfeeq","email": "thowfeeq@gmail.com"},
+    {"id": 6,"name": "Navya","username": "thowfeeq","email": "thowfeeq@gmail.com"},
+  ]
 }
