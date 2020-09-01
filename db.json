@@ -6,7 +6,7 @@
     name: "Syed Thowfeeq Ahmed",
     username: "thowfeeq",
     email: "thowfeeq@gmail.com",
-    }
+    },
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
